@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sp3DPYN0Hck=",
+  "success": true,
+  "projectFilePath": "/home/pranish/Coding/ASP.NET/BlogApp/BlogApp.csproj",
+  "expectedPackageFiles": [
+    "/home/pranish/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.9/microsoft.aspnetcore.app.ref.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
