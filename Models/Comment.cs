@@ -1,0 +1,19 @@
+using System.ComponentModel.DataAnnotations;
+
+namespace BlogApp.Models;
+
+public class Comment
+{
+    [Key]
+    public int Id { get; set; }
+    
+    [Required(ErrorMessage = "The  Username is Required")]
+    [MaxLength(100, ErrorMessage = "The Username Cannot Exceed 100 Characters")]
+    public string UserName { get; set; }
+
+    [DataType(DataType.Date)]
+    public DateTime CommentDate { get; set; }
+    
+    [Required]
+    public string Content { get; set; }
+}

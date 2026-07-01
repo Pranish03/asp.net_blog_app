@@ -1,0 +1,15 @@
+using System.ComponentModel.DataAnnotations;
+
+namespace BlogApp.Models;
+
+public class Category
+{
+    [Key]
+    public int Id { get; set; }
+    
+    [Required(ErrorMessage = "The Category Name is Required")]
+    [MaxLength(100, ErrorMessage = "The Name Cannot Exceed 100 Characters")]
+    public string Name { get; set; }
+    
+    public string? Description { get; set; }
+}
