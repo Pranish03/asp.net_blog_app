@@ -125,7 +125,6 @@
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/scopedcss/bundle/BlogApp.styles.css
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/scopedcss/projectbundle/BlogApp.bundle.scp.css
-/home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/compressed/fns5yau1k6-{0}-lugek5hnai-lugek5hnai.gz
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/compressed/1rw2qgqj2t-{0}-61n19gt1b8-61n19gt1b8.gz
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/compressed/hc0audywwg-{0}-fr7q2aak1r-fr7q2aak1r.gz
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/compressed/33psubyoc5-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -187,8 +186,6 @@
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/compressed/c53k32fxba-{0}-muycvpuwrr-muycvpuwrr.gz
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/compressed/nkfldhrdif-{0}-87fc7y1x7t-87fc7y1x7t.gz
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/compressed/velujh3myl-{0}-jfsiqqwiad-jfsiqqwiad.gz
-/home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/compressed/u1z3ttu8z1-{0}-0kcskmsnc6-0kcskmsnc6.gz
-/home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/compressed/y9w8h5ywbf-{0}-0kcskmsnc6-0kcskmsnc6.gz
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/staticwebassets.build.json
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/staticwebassets.build.json.cache
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/staticwebassets.development.json
@@ -200,3 +197,7 @@
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/BlogApp.pdb
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/BlogApp.genruntimeconfig.cache
 /home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/ref/BlogApp.dll
+/home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/compressed/g8v6976jkj-{0}-2c29whj83c-2c29whj83c.gz
+/home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/compressed/fns5yau1k6-{0}-5ipweew5fc-5ipweew5fc.gz
+/home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/compressed/u1z3ttu8z1-{0}-9igywjl9ok-9igywjl9ok.gz
+/home/pranish/Coding/ASP.NET/BlogApp/obj/Debug/net9.0/compressed/y9w8h5ywbf-{0}-9igywjl9ok-9igywjl9ok.gz
